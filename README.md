@@ -3,7 +3,7 @@
 
 - Using opencv2.4.9 + Bluetooth Serial Communitation + MSP430 Microcontroller
 
-## In default:
+## By default:
 
 - The drone is covered with color blue in the front and red in the rear. 
 
