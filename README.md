@@ -1,5 +1,5 @@
 # Project for SJTU EI228: Engineering Practice and Innovation of Science and Technology-2B
-## This project implements a automatic line-tracking drone by mounting a camera over the whole track and using computer vision to generate commands.
+## The automatic line-tracking drone is implemented with a trajectory-planning program that perceives the environment through a fixed camera, uses computer vision to interpret pixels and generate commands, and sends instructions to the drone through serial Bluetooth communication to control the torque of different motors.
 
 - Using opencv2.4.9 + Bluetooth Serial Communitation + MSP430 Microcontroller
 
