@@ -8,3 +8,9 @@
 - The drone is covered with color blue in the front and red in the rear. 
 
 - The map is white in background and a black thick line is used as the track.
+
+## Screenshots
+
+![Before Calibration](https://github.com/cxy1997/Line-Tracking-Drone/blob/master/screenshots/1.png)
+![Start](https://github.com/cxy1997/Line-Tracking-Drone/blob/master/screenshots/2.png)
+![Finish](https://github.com/cxy1997/Line-Tracking-Drone/blob/master/screenshots/3.png)
